@@ -1,0 +1,56 @@
+.reg{
+  width: 700px;  
+  overflow: hidden;  
+  margin: auto;  
+  margin: 20 0 0 450px;  
+  padding: 80px;  
+  background: #e9e7e7;  
+  border-radius: 15px ;  
+  opacity: 0.7;
+  position: relative;
+  top: 150px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}  
+.name{  
+  color: #2e333c;  
+  font-size: 17px;  
+}  
+#uname{  
+  width: 200px;  
+  height: 30px;  
+  border: none;  
+  border-radius: 3px;  
+  padding-left: 8px;  
+}  
+#lname{
+  padding-left: 70px;
+}
+.button{
+  padding: 10px 40px 10px 40px;
+  background-color: rgb(135, 223, 135);
+  border: 0px;
+  border-radius: 3px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  position: relative;
+  top: 40px;
+  left: 300px;
+  transition: all 1s;
+}
+.button:hover{
+  background-color: rgb(25, 173, 25);
+  transform: scale(1.2);
+}
+#name{
+  padding-right: 23px;
+}
+#name1{
+  padding-right: 10px;
+}
+#lname1{
+  padding-left: 70px;
+  padding-right: 26px;
+}
+#lname2{
+  padding-left: 70px;
+  padding-right: 5px;
+}
